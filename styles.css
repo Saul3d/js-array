@@ -1,0 +1,12 @@
+body{
+    background-color:orange;
+    color:#fff;
+    font-family:sans-serif;
+    
+}
+
+h3{
+    text-transform: uppercase;
+    font-weight:200;
+    font-size:.75em;
+}
